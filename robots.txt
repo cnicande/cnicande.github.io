@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cnicande.github.io/sitemap
+Sitemap: https://cnicande.github.io/app/sitemap
+Sitemap: https://cnicande.github.io/assets/sitemap
+Sitemap: https://cnicande.github.io/css/sitemap
+Sitemap: https://cnicande.github.io/includes/sitemap
+Sitemap: https://cnicande.github.io/item/sitemap
+Sitemap: https://cnicande.github.io/src/sitemap
